@@ -8,7 +8,7 @@ public class KafeDoWhile16 {
         double totalHarga,hargaKopi = 12000, hargaTeh = 7000, hargaRoti = 20000;
 
         do {
-            System.out.print("Masukkan nama pelanggan (ketik 'batal' untuk keluar): ");
+            System.out.print("Masukkan nama pelanggann (ketik 'batal' untuk keluar): ");
             namaPelanggan = sc.nextLine();
 
             if (namaPelanggan.equalsIgnoreCase("batal")) {
