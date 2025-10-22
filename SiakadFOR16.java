@@ -4,7 +4,7 @@ public class SiakadFOR16 {
         Scanner sc = new Scanner(System.in);
         double nilai, tertinggi = 0, terendah = 100;
         int i;
-        System.out.print("Masukkan jumlah mahasiswa: ");
+        System.out.print("Masukkan jumlah mahasiswaa: ");
         int jml = sc.nextInt();
         
         for ( i = 1; i <= 10; i++) {
