@@ -7,7 +7,7 @@ public class SiakadWhile16 {
         Scanner sc = new Scanner(System.in);
         double nilai,jml;
         int i=0;
-        System.out.print("Masukkan jumlah mahasiswa: ");
+        System.out.print("Masukkan jumlah mahasiswaa: ");
         jml = sc.nextInt();
         while (i < jml) {
             System.out.print("Masukkan nilai mahasiswa ke-" + (i + 1) + ": ");
