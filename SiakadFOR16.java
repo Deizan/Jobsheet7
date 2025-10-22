@@ -18,7 +18,7 @@ public class SiakadFOR16 {
                 terendah = nilai;
             }
            
-        }
+         }
 
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
